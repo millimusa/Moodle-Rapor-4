@@ -1,0 +1,7 @@
+Moodle_Rapor_4 programý .Net Framework 4.0 veya daha üst bir versiyon yüklü ise çalýþýr.
+
+
+
+Daha önceki Moodle_Rapor_3 dersten kaydý silinen öðrencileri göz önünde bulundurmuyordu. Dolayýsý ile bir öðrencinin dersten kaydý silinse de
+program onu hala öðrenci listesinde ve dolayýsý ile derse girmeyenler listesinde gösteriyordu. Bu durumun yol açtýðý hatalar giderildi. Öðrenci
+listesi -dersten kaydý silinen öðrenciler olsa dahi- güncel bir þekilde bulunabiliyor.
